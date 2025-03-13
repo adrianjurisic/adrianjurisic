@@ -1,16 +1,19 @@
-## Hi there 👋
+# Adrian Jurišić
 
-<!--
-**adrianjurisic/adrianjurisic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduated from the University of Zenica (Software Engineering).
+- 🌱 Passionate about coding and learning new technologies.
+- 🚀 Always looking for opportunities to work on software projects.
 
-Here are some ideas to get you started:
+📫 Contact me via email: adrianjurisic1601@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Frontend Development**: HTML, CSS, React.js, React Native
+- **Backend Development**: Node.js
+- **Databases**: MySQL
+- **Programming**: C++, JavaScript, TypeScript
+- **Tools & Technologies**: MS Office, Git, Figma
+
+## 🌐 Social Media
+
+- [LinkedIn](https://www.linkedin.com/in/adrian-jurisic/)
