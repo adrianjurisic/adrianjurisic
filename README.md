@@ -1,6 +1,6 @@
 # Adrian Jurišić
 
-- 🎓 Graduated from the University of Zenica (Software Engineering).
+- 🎓 Graduated from the University of Zenica (Software Engineering) at 24th of March 2024.
 - 🌱 Passionate about coding and learning new technologies.
 - 🚀 Always looking for opportunities to work on software projects.
 
