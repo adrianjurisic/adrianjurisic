@@ -10,7 +10,7 @@
 
 - **Frontend Development**: HTML, CSS, React.js, React Native
 - **Backend Development**: Node.js
-- **Databases**: MySQL, SQL
+- **Databases**: MySQL
 - **Programming**: C++, JavaScript, TypeScript
 - **Tools & Technologies**: MS Office, Git, Figma
 
